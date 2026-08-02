@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://count.getloli.com/@HyprArch?name=HyprArch&theme=capoo-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=147856" alt="Profile views" />
+  <img src="https://count.getloli.com/@HyprArch?name=HyprArch&theme=capoo-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=0347568" alt="🧬" />
 </p>
 
 <table align='center'>
   <tr>
     <td><b>ML Engineer / Designer.</b></td>
-    <td><i>*powered by endless cups of coffee*</i></td>
+    <td><i>powered by endless cups of coffee</i></td>
   </tr>
 </table>
 
@@ -17,11 +17,11 @@ B.Tech CSE'28 (AI & ML) at BWU, Barasat.
 ✨ <i>ML Engineer in training</i> ✨
 
 ▸ 🥈 <b>Google Cloud Arcade 2025 Cohort 2</b>: Achieved <b>Champions Tier</b> · 280+ labs and 100+ skill badges  
-▸ 💹 Maintaining my dotfiles (Arch BTW) since 2024 · 500+ commits  
+▸ 💹 Maintaining my dotfiles (Arch BTW) since 2024 · 400+ commits  
 ▸ 🍙 <b>Pronouns</b>: Human  
 ▸ 🎟️ <b>Fun fact</b>: I'm a human.. probably
 
-### My Tech Skills:
+### Techical Skills
 
 <table>
   <tr>
