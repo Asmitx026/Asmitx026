@@ -9,7 +9,9 @@
   </tr>
 </table>
 
-[LinkedIn](#) · [Credly](#) · [Dribbble](#) · [Hugging Face](#)
+<p align="center">
+  <a href="https://linkedin.com/in/Asmitx026">LinkedIn</a> · <a href="https://www.credly.com/users/radiantnearl26/badges/credly">Credly</a> · <a href="https://dribbble.com/radiantNearl26">Dribbble</a> · <a href="https://www.huggingface.co/radiantNearl26">Hugging Face</a>
+</p>
 
 B.Tech CSE'28 (AI & ML) at BWU, Barasat.  
 ✨ <i>ML Engineer in training</i> ✨
@@ -68,7 +70,7 @@ B.Tech CSE'28 (AI & ML) at BWU, Barasat.
   <tr>
     <td><b>☁️ Cloud</b></td>
     <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
+      <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" alt="AWS" />
       <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud" />
       <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white" alt="Terraform" />
     </td>
