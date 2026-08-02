@@ -1,4 +1,8 @@
-<table>
+<p align="center">
+  <img src="https://count.getloli.com/@HyprArch?name=HyprArch&theme=capoo-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=147856" alt="Profile views" />
+</p>
+
+<table align='center'>
   <tr>
     <td><b>ML Engineer / Designer.</b></td>
     <td><i>*powered by endless cups of coffee*</i></td>
