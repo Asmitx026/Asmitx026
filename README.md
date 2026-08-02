@@ -5,21 +5,15 @@
   </tr>
 </table>
 
-<br/>
-
 [LinkedIn](#) · [Credly](#) · [Dribbble](#) · [Hugging Face](#)
-
-<br/>
 
 B.Tech CSE'28 (AI & ML) at BWU, Barasat.  
 ✨ <i>ML Engineer in training</i> ✨
 
-- 🥈 <b>Google Cloud Arcade 2025 Cohort 2</b>: Achieved <b>Champions Tier</b> · 280+ labs and 100+ skill badges  
-- 💹 Maintaining my dotfiles (Arch BTW) since 2024 · 500+ commits  
-- 🍙 <b>Pronouns</b>: Human  
-- 🎟️ <b>Fun fact</b>: I'm a human.. probably
-
-<br/>
+▸ 🥈 <b>Google Cloud Arcade 2025 Cohort 2</b>: Achieved <b>Champions Tier</b> · 280+ labs and 100+ skill badges  
+▸ 💹 Maintaining my dotfiles (Arch BTW) since 2024 · 500+ commits  
+▸ 🍙 <b>Pronouns</b>: Human  
+▸ 🎟️ <b>Fun fact</b>: I'm a human.. probably
 
 ### My Tech Skills:
 
