@@ -36,7 +36,7 @@ B.Tech CSE'28 (AI & ML) at BWU, Barasat.
   <tr>
     <td><b>📚 ML Libraries</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
       <img src="https://img.shields.io/badge/TensorFlow-ff8f00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
       <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=fff" alt="Keras" />
       <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
