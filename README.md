@@ -10,7 +10,7 @@
 </table>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Asmitx026">LinkedIn</a> · <a href="https://www.credly.com/users/radiantnearl26/badges/credly">Credly</a> · <a href="https://dribbble.com/radiantNearl26">Dribbble</a> · <a href="https://www.huggingface.co/radiantNearl26">Hugging Face</a>
+  <a href="https://linkedin.com/in/Asmitx026">LinkedIn</a> <b>·</b> <a href="https://www.credly.com/users/radiantnearl26/badges/credly">Credly</a> <b>·</b> <a href="https://leetcode.com/u/Asmitx026/">LeetCode</a> <b>·</b> <a href="https://dribbble.com/radiantNearl26">Dribbble</a>
 </p>
 
 B.Tech CSE'28 (AI & ML) at BWU, Barasat.  
